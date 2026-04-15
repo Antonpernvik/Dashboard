@@ -1,6 +1,6 @@
-# Sibbjäns Ops
+# Agent
 
-Operativ dashboard för Sibbjäns — projekt, kontakter och uppgifter.
+Operativ dashboard för Openclaw — projekt, kontakter och uppgifter.
 
 ## Stack
 
